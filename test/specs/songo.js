@@ -19,7 +19,9 @@ driver.init().then(function(){
 		.click('a[href="/music/The+Chainsmokers"]')
 		.pause(3000)
 		.click('a[id="btn-playpause"]')
-		.pause(5000)
+		.pause(3000)
+		.click('a[id="btn-playpause"]')
+		.pause(10000)
  		.driver.end();
 
 	});
