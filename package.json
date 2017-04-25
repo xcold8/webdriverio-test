@@ -1,0 +1,22 @@
+{
+  "name": "webdriverio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcold8/webdriverio-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcold8/webdriverio-test/issues"
+  },
+  "homepage": "https://github.com/xcold8/webdriverio-test#readme",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.5.10"
+  }
+}
