@@ -18,5 +18,11 @@
   "homepage": "https://github.com/xcold8/webdriverio-test#readme",
   "devDependencies": {
     "wdio-mocha-framework": "^0.5.10"
+  },
+  "dependencies": {
+    "connect": "^3.6.1",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.9.7"
   }
 }
